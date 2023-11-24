@@ -2,7 +2,6 @@
 
 
 
-
 Overview
 This Project Aims to identify opportunities to increase the occupancy rate on low-performing flights,which can ultimately lead to increased profitability for the airline.
 
@@ -57,16 +56,20 @@ The below Snippets are from the report made after data analysis
 ![App Screenshot](https://i.ibb.co/87fzMqY/Screenshot-2023-11-24-092923.png)
 
 Number of tickets sold over the time and revenue graphs
+
 ![App Screenshot](https://i.ibb.co/mqxZkD1/Screenshot-2023-11-24-093001.png)
 
 Types of Fare conditions
+
 ![App Screenshot](https://i.ibb.co/zxnRMJB/Screenshot-2023-11-24-093017.png)
 
 Occupancy Rate of different flights
+
 ![App Screenshot](https://i.ibb.co/qN83L0x/Screenshot-2023-11-24-093050.png)
 
 
 Conclusion
+
 ![App Screenshot](https://i.ibb.co/0nPspf1/Screenshot-2023-11-24-093114.png)
 
 
@@ -93,3 +96,7 @@ jadonabhisheksingh0@gmail.com
 Github
 
 https://github.com/Abhishek290396
+
+
+
+
